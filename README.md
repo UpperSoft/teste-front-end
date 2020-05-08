@@ -147,6 +147,7 @@ Para maiores informações sobre como integrar com a API e exemplos de utilizaç
 - Utilização de pré-processador de CSS (SASS/SCSS)
 - Utilização do Axios para as requests.
 - Utilização dos arquivos SVGs disponibilizados nos assets.
+- Utilização de SessionStorage para armazenar o token recebido no login e permitir o acesso a tela de Lista de Usuários somente se houver token na SessionStorage.
 - Loading enquanto aguarda resposta da API.
 
 
